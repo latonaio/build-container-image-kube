@@ -1,0 +1,5 @@
+{
+ "url":"kube-registry:5000",
+ "username" : "XXXX",
+ "password" : "XXXX"
+}

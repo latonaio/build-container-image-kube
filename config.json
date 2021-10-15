@@ -1,0 +1,8 @@
+{
+	"auths": {
+		"http://kube-registry:5000": {
+			"auth": "XXXXXXXXXX"
+		}
+	}
+}
+
